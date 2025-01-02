@@ -75,4 +75,7 @@ EMAIL_HOST_USER = 'your-email@gmail.com'
 EMAIL_HOST_PASSWORD = 'your-app-password'
 ```
 
+# Video Demonstration of features and Code Explanation
+Loom Link: https://www.loom.com/share/e9afc1dcbc024a119904a4da6135756a?sid=25a0fec4-0aa4-4397-b53a-201c66e5a0c0
+
 
